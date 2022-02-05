@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/find_pokemon/static/css/main.bf9581a5.chunk.css",
+    "main.js": "/find_pokemon/static/js/main.87447b78.chunk.js",
+    "main.js.map": "/find_pokemon/static/js/main.87447b78.chunk.js.map",
+    "runtime-main.js": "/find_pokemon/static/js/runtime-main.becbe6d7.js",
+    "runtime-main.js.map": "/find_pokemon/static/js/runtime-main.becbe6d7.js.map",
+    "static/js/2.c09fea88.chunk.js": "/find_pokemon/static/js/2.c09fea88.chunk.js",
+    "static/js/2.c09fea88.chunk.js.map": "/find_pokemon/static/js/2.c09fea88.chunk.js.map",
+    "index.html": "/find_pokemon/index.html",
+    "static/css/main.bf9581a5.chunk.css.map": "/find_pokemon/static/css/main.bf9581a5.chunk.css.map",
+    "static/js/2.c09fea88.chunk.js.LICENSE.txt": "/find_pokemon/static/js/2.c09fea88.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/find_pokemon/static/media/pokemon_black_and_white_version_font_by_mauriziovit_d4t992c (1).50dc787d.ttf",
+    "static/media/check.49a98558.png": "/find_pokemon/static/media/check.49a98558.png",
+    "static/media/pokemon_logo.9e1438b4.png": "/find_pokemon/static/media/pokemon_logo.9e1438b4.png",
+    "static/media/pokemon_wallpaper.ba8f0f3b.jpeg": "/find_pokemon/static/media/pokemon_wallpaper.ba8f0f3b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.becbe6d7.js",
+    "static/js/2.c09fea88.chunk.js",
+    "static/css/main.bf9581a5.chunk.css",
+    "static/js/main.87447b78.chunk.js"
+  ]
+}
