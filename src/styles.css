@@ -1,0 +1,193 @@
+@font-face {
+    font-family: titleFont;
+    src: url(./assets/ahronbd.ttf);
+}
+
+
+@font-face {
+    font-family: bwFont;
+    src: url(./assets/pokemon_black_and_white_version_font_by_mauriziovit_d4t992c\ \(1\).ttf);
+}
+
+@font-face {
+    font-family: gameText;
+    src: url(./assets/HUM521N.TTF);
+}
+
+h1 {
+    font-family: titleFont;
+    text-align: center;
+    color: #fe7bb9;
+    font-size: 70px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #3171c6;
+}
+
+h2 {
+    font-family: bwFont;
+    text-align: center;
+} 
+
+ul {
+    display: block;
+    margin: auto;
+}
+
+li {
+    text-align: center;
+    font-family: gameText;
+
+}
+
+.poke-logo {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+
+#pname {
+    display: block;
+    font-family: gameText;
+    margin: auto;
+    text-align: center;
+    height: 35px;
+    width: 160px;
+    font-size: 25px;
+}
+
+.start-link {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-family: bwFont;
+    color: black;
+    padding: 20px;
+}
+
+.poke-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.poke-card {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #1d3466;
+    border-bottom-width: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.poke-name {
+    text-align: center;
+    font-familY: gameText;
+    font-size: 10px;
+    background-color: #1d3466;
+    color: white;
+    height: 14px;
+}
+
+.poke-pic {
+    width: 75px;
+    height: auto;
+}
+.big-poke-pic {
+    width: 1600px;
+    height: auto;
+}
+
+.game-box {
+    position: relative;
+    display: block;
+    margin: auto;
+    border-style: double;
+    border-width: 30px;
+    border-color: #1d3466;
+    border-radius: 10px;
+    width: 1600px;
+    height: 900px;
+}
+
+.view-box {
+    position: absolute;
+}
+
+.view-square {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    width: 90px;
+    height: 110px;
+}
+
+.select-box {
+    display: grid;
+    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns: 1fr;
+}
+
+.select-button {
+    background-color: white;
+}
+
+.score-table {
+    border-style: solid;
+    border-width: 10px;
+    border-bottom-width: 20px;
+    border-radius: 10px;
+    border-color: #1d3466;
+    width: 300px;
+    display: block;
+    margin: auto;
+
+}
+
+.score-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.score-name {
+    margin: 30px;
+    font-family: gameText;
+}
+
+.score-time {
+    margin: 30px;
+    font-family: gameText;
+
+}
+
+
+.again-link {
+    display: block;
+    text-align: center;
+    color: black;
+    font-family: gameText;
+    margin-top: 40px;
+    font-size: 30px;
+
+}
+
+.score-intro {
+    font-familY: gameText;
+    text-align: center;
+    font-size: 25px;
+}
+
+.found-check {
+    width: 40px;
+    height: auto;
+    position: absolute;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #1d3466;
+    border-radius: 25px;
+
+}
+
